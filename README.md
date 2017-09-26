@@ -1,6 +1,6 @@
 # Energy Efficiency Rating CSS
 
-Here your energy efficiency rating made in css
+Here your energy efficiency rating made on css
 
 This tool was implemented on Enerwater. Some of projects that I did.
 
