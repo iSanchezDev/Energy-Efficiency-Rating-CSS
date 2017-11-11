@@ -6,7 +6,7 @@ This tool was implemented on Enerwater. Some of projects that I did.
 
 A web app whitch allows you to know how efficient is the wastewater treatments plants.
 
-Screen shot
+Screenshot
 
 ![screen shot 2017-09-27 at 00 54 26](https://user-images.githubusercontent.com/25980900/30888009-76b482c0-a31e-11e7-95ba-9e8b9d6c575a.png)
 
