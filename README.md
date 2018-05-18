@@ -1,8 +1,6 @@
 # Energy Efficiency Rating CSS
 
-I just want to share this basic CSS for some apps which will include some energy efficiency rating.
-
-This tool was implemented on Enerwater. Some of projects that I did. A web app whitch allows you to know how efficient the wastewater treatments plants are.
+Here an useful style to enhance your appearance energy's projects. I used it on Enerwater a MVC app for the wastewater treatments.
 
 Screenshot
 
