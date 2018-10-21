@@ -4,7 +4,7 @@ Here an useful CSS style to enhance your projects appearance for energy rating c
 
 I made it for Enerwater, a MVC app for the wastewater treatments.
 
-Code in [jsfiddle](https://jsfiddle.net/ISanchezDev/LdcLc06r/48/)
+See Code in [jsfiddle](https://jsfiddle.net/ISanchezDev/LdcLc06r/48/)
 
 Screenshot
 
