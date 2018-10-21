@@ -1,8 +1,8 @@
 # Energy Efficiency Rating CSS
 
-Here an useful style to enhance your energy's projects appearance. 
+Here an useful CSS style to enhance your projects appearance for energy rating content. 
 
-I used it on Enerwater a MVC app for the wastewater treatments.
+I made it for Enerwater, a MVC app for the wastewater treatments.
 
 Code in [jsfiddle](https://jsfiddle.net/ISanchezDev/LdcLc06r/48/)
 
